@@ -42,8 +42,8 @@ const LoginForm = () => {
   }, []);
 
   const initialValues = {
-    username: '',
-    password: '',
+    username: 'admin',
+    password: 'admin',
     userGroupId: UserGroup.Administrator,
   };
 
