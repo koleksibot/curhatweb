@@ -33,7 +33,7 @@
     "jss": "^10.6.0",
     "jss-plugin-extend": "^10.6.0",
     "material-ui-audio-player": "^1.6.2",
-    "npm": "^7.18.1",
+    "npm": "^8.11.0",
     "react": "^17.0.1",
     "react-big-calendar": "^0.33.2",
     "react-chartjs-2": "^3.0.5",
